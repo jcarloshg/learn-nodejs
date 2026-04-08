@@ -1,0 +1,14 @@
+{
+  "name": "javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "01-event-loop": "node ./01.event-loop/index.js",
+    "02-closure-memory-leaks": "node ./02.closure-memory-leaks/closure-memory-leaks.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
